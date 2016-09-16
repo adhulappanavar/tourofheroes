@@ -15,7 +15,7 @@
 *.launch
 .settings/
 
-# misc
+# misc 
 /.sass-cache
 /connect.lock
 /coverage/*
